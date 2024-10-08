@@ -1,7 +1,7 @@
 # long_term_forecast
 ## ETT
 由两个小时级数据集（ETTh）和两个 15 分钟级数据集（ETTm）组成。它们中的每一个都包含 2016 年 7 月至 2018 年 7 月的七种石油和电力变压器的负载特征。
-## traffic
+## traffic， 太大无法上传
 描述了道路占用率。它包含 2015 年至 2016 年旧金山高速公路传感器记录的每小时数据
 ## electrity
 从 2012 年到 2014 年收集了 321 个客户每小时电力消耗。
@@ -12,3 +12,5 @@
 ## illness
 描述了患有流感疾病的患者与患者数量的比率。它包括 2002 年至 2021 年美国疾病控制和预防中心每周数据。
 This is Datasets.
+## 也可通过下面仓库
+https://github.com/laiguokun/multivariate-time-series-data
